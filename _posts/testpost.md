@@ -1,5 +1,5 @@
 ---
-layout: Test Blog Post
+layout: post
 title: Test Blog Post2
 permalink: /test/
 ---
