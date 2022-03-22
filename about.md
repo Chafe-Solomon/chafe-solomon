@@ -1,5 +1,5 @@
 ---
-layout: Tresata Blog
+layout: Page
 title: About
 permalink: /about/
 ---
